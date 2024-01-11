@@ -10,4 +10,4 @@ This repository contains an analysis of user behavior on a food delivery platfor
 - iOS users tend to spend more than Android users.
 - The majority of users are infrequent low-spenders (characterized by users who place orders at an average interval of 20 days and spend less than 100 euros per order).
 
-![Image Alt Text](https://github.com/MuEissa/User-Segmentation/blob/main/Overview.pdf)
+![Image Alt Text](![image](https://github.com/MuEissa/User-Segmentation/assets/128483502/470284b3-dc6a-4c32-ae0b-6b449e0a0f43)
